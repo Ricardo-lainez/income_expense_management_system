@@ -2,7 +2,7 @@
 
 ## Preparación previa
 
-- Mantener la asignación durante todo el ensayo: **Integrante 1: Julio Blacio**, **Integrante 2: Ricardo Lainez** e **Integrante 3: Ariel Llumiquinga**.
+- Mantener la asignación durante todo el ensayo: **Integrante 1: Ricardo Lainez**, **Integrante 2: Ariel Llumiquinga** e **Integrante 3: Julio blacio**.
 - Usar una **laptop** para mostrar la aplicación web en el navegador y la aplicación de escritorio en Electron; usar el **emulador abierto en Android Studio** para la aplicación móvil.
 - Tener iniciados el backend, la aplicación web y Electron en la laptop, además del emulador Android Studio.
 - Iniciar las tres aplicaciones con la misma cuenta demo preparada y la misma base de datos; no usar datos personales reales. La contraseña debe estar autocompletada u oculta antes de proyectar.
